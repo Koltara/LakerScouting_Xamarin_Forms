@@ -1,0 +1,2 @@
+C:\Users\cross\Documents\GitHub\LakerScouting_Xamarin_Forms\LakerScouting\LakerScouting.csproj;neutral
+C:\Users\cross\Documents\GitHub\LakerScouting_Xamarin_Forms\WinPhone81\LakerScouting.WinPhone81.csproj;x86
